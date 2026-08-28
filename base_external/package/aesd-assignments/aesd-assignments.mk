@@ -10,7 +10,7 @@ AESD_ASSIGNMENTS_VERSION = assignment4-part2
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESD_ASSIGNMENTS_SITE = git@github-assignment3:cu-ecen-aeld/assignments-3-and-later-amrighabdalla-lang.git
+AESD_ASSIGNMENTS_SITE = git@github:cu-ecen-aeld/assignments-3-and-later-amrighabdalla-lang.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
