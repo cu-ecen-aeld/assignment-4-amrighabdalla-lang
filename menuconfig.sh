@@ -1,3 +1,4 @@
 #!/bin/sh
-make -C buildroot BR2_EXTERNAL=${EXTERNAL_REL_BUILDROOT} O=/mnt/build-cache/agomaa/build_output menuconfig
+#make -C buildroot BR2_EXTERNAL=${EXTERNAL_REL_BUILDROOT} O=/mnt/build-cache/agomaa/build_output menuconfig
+make -C buildroot BR2_EXTERNAL=${EXTERNAL_REL_BUILDROOT} menuconfig
 
